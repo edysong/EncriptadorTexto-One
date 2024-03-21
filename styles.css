@@ -176,6 +176,7 @@
     }
     .encriptar {
       width: 100%;
+      
     }
     .texto {
       width: 80%;
@@ -186,15 +187,13 @@
     .terminos {
       width: 80%;
       left: 10%;
-      top: 67%;
+      top: 60%;
     }
-    .terminos p {
-      font-size: 16px;
-    }
+    
     .botones {
       width: 80%;
       left: 10%;
-      top: 70%;
+      top: 65%;
     }
     .btn-encriptar,
     .btn-desencriptar {
@@ -211,11 +210,14 @@
       width: 80%;
       height: 15%;
       left: 10%;
-      top: 80%;
+      top: 75%;
     }
     .mensaje-encriptado {
       width: 100%;
-      top: 5%;
+      top: 15%;
+    }
+    .parrafo{
+      top: 60%;
     }
     .encriptado img {
       top: 0;

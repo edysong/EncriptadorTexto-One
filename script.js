@@ -48,5 +48,7 @@ function encriptar() {
         parrafo.textContent = "Ingresa el texto que deseas encriptar o desencriptar";
         swal("Ooops!", "Debes ingresar un texto", "warning");
       }
+    
+      
   }
   
